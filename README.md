@@ -1,30 +1,8 @@
-# template
+# Gastritis Cystica Profunda
 
 
 
-**template for pathology atlas repositories**
-
-
-
-
-> see [make-html-WSI](https://github.com/pathologyatlas/make-html-WSI) for more information and [TODO](https://github.com/pathologyatlas/TODO) to add cases
-
-
-
-
-> do not forget to activate github pages for the new repository
-
-
-
-
-```zsh
-vips dzsave HE.svs HE
-```
-
-
-
-
-```{r language template, echo=FALSE, include=TRUE}
+```{r language gastritis-cystica-profunda, echo=FALSE, include=TRUE}
 source("./R/language.R")
 ```
 
@@ -32,14 +10,14 @@ source("./R/language.R")
 
 
 ```{asis, echo = (language == "TR")}
-# TemplateTR
+# Gastritis Cystica Profunda
 ```
 
 
 
 
 ```{asis, echo = (language == "EN")}
-# TemplateEN
+# Gastritis Cystica Profunda
 ```
 
 
@@ -47,14 +25,14 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "TR")}
 
-**templateTR**
+**Gastritis Cystica Profunda**
 
 
-[https://pathologyatlas.github.io/template/HE.html](https://pathologyatlas.github.io/template/HE.html)
+[https://pathologyatlas.github.io/gastritis-cystica-profunda/HE.html](https://pathologyatlas.github.io/gastritis-cystica-profunda/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/template/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://pathologyatlas.github.io/gastritis-cystica-profunda/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
@@ -63,14 +41,14 @@ Mikroskopik görüntüleri inceleyin:
 
 ```{asis, echo = (language == "EN")}
 
-**templateEN**
+**Gastritis Cystica Profunda**
 
 
-[https://pathologyatlas.github.io/template/HE.html](https://pathologyatlas.github.io/template/HE.html)
+[https://pathologyatlas.github.io/gastritis-cystica-profunda/HE.html](https://pathologyatlas.github.io/gastritis-cystica-profunda/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/template/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://pathologyatlas.github.io/gastritis-cystica-profunda/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 

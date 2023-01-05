@@ -28,11 +28,11 @@ source("./R/language.R")
 **Gastritis Cystica Profunda**
 
 
-[https://pathologyatlas.github.io/gastritis-cystica-profunda/HE.html](https://pathologyatlas.github.io/gastritis-cystica-profunda/HE.html)
+[https://images.patolojiatlasi.com/gastritis-cystica-profunda/HE.html](https://images.patolojiatlasi.com/gastritis-cystica-profunda/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/gastritis-cystica-profunda/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/gastritis-cystica-profunda/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
@@ -44,11 +44,11 @@ Mikroskopik görüntüleri inceleyin:
 **Gastritis Cystica Profunda**
 
 
-[https://pathologyatlas.github.io/gastritis-cystica-profunda/HE.html](https://pathologyatlas.github.io/gastritis-cystica-profunda/HE.html)
+[https://images.patolojiatlasi.com/gastritis-cystica-profunda/HE.html](https://images.patolojiatlasi.com/gastritis-cystica-profunda/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/gastritis-cystica-profunda/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/gastritis-cystica-profunda/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
